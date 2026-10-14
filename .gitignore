@@ -1,7 +1,10 @@
 # Local .terraform directories
 .terraform/
 
-gitleaks
+gitleaks.txt
+gitleaks-report.json
+terraform.lock.hcl
+
 
 
 
