@@ -1,0 +1,10 @@
+
+
+import os
+
+# Dummy secrets for Gitleaks practice only
+API_KEY = "AKIAIOSFODNN7EXAMPLE"
+DATABASE_PASSWORD = "MyDummyPassword123!"
+GITHUB_TOKEN = "ghp_1234567890abcdef1234567890abcdef1234"
+
+print("Application started")
