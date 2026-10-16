@@ -5,6 +5,11 @@ rgs={
             name="babaTillu"
             location="eastus"
           }
+
+           rg1={
+            name="rg-tinku"
+            location="eastus"
+          }
           
  }  
  
