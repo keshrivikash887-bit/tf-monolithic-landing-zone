@@ -7,7 +7,7 @@ rgs={
           }
 
            rg1={
-            name="rg-tinku"
+            name="rg-minku"
             location="eastus"
           }
           
