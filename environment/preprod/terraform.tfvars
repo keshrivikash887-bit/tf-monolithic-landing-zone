@@ -6,8 +6,13 @@ rgs={
             location="eastus"
           }
 
-           rg1={
+           rg2={
             name="rg-minku"
+            location="eastus"
+          }
+
+           rg3={
+            name="rg-minkugit"
             location="eastus"
           }
           
